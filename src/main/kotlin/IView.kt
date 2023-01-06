@@ -1,0 +1,3 @@
+interface IView {
+    fun updateView()
+}
